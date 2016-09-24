@@ -26,3 +26,8 @@ int x =10;
 * String
 * args
 * x
+
+#### Rules for defining Java identifiers
+1.  The allowed characters in Java identifiers are a-z, A-Z,0-9,$,and _. if we are using any other character, we'll get compile time error. Example:2.  *  total_number
+
+total
