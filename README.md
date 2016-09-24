@@ -3,16 +3,16 @@ Core java Notes
 
 #Language Fundamentals
 
-#identifier
-#reserved words
-#datatypes
-#literals
-#arrays
-#types of variables
-#var args methods
-#main method
-#commandline arguments
-#java coding standards
+1. identifier
+2. reserved words
+3. datatypes
+4. literals
+5. arrays
+6. types of variables
+7. var args methods
+8. main method
+9. commandline arguments
+10.   java coding standards
 
 class Test{
 public static void main(String[] args){
